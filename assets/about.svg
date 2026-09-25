@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="486" viewBox="0 0 900 486" role="img" aria-label="Hesam.php — a PHP class describing Hesam's role, stack and motto">
+  <title>Hesam.php</title>
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b0f1a"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <clipPath id="l0"><rect x="70" y="68" width="0" height="24"><animate attributeName="width" from="0" to="70" begin="0.60s" dur="0.09s" fill="freeze"/></rect></clipPath><clipPath id="l2"><rect x="70" y="116" width="0" height="24"><animate attributeName="width" from="0" to="254" begin="0.93s" dur="0.45s" fill="freeze"/></rect></clipPath><clipPath id="l4"><rect x="70" y="164" width="0" height="24"><animate attributeName="width" from="0" to="512" begin="1.62s" dur="0.95s" fill="freeze"/></rect></clipPath><clipPath id="l5"><rect x="70" y="188" width="0" height="24"><animate attributeName="width" from="0" to="346" begin="2.69s" dur="0.63s" fill="freeze"/></rect></clipPath><clipPath id="l6"><rect x="70" y="212" width="0" height="24"><animate attributeName="width" from="0" to="33" begin="3.44s" dur="0.08s" fill="freeze"/></rect></clipPath><clipPath id="l7"><rect x="70" y="236" width="0" height="24"><animate attributeName="width" from="0" to="484" begin="3.64s" dur="0.90s" fill="freeze"/></rect></clipPath><clipPath id="l8"><rect x="70" y="260" width="0" height="24"><animate attributeName="width" from="0" to="668" begin="4.66s" dur="1.26s" fill="freeze"/></rect></clipPath><clipPath id="l9"><rect x="70" y="284" width="0" height="24"><animate attributeName="width" from="0" to="659" begin="6.04s" dur="1.24s" fill="freeze"/></rect></clipPath><clipPath id="l11"><rect x="70" y="332" width="0" height="24"><animate attributeName="width" from="0" to="346" begin="7.53s" dur="0.63s" fill="freeze"/></rect></clipPath><clipPath id="l12"><rect x="70" y="356" width="0" height="24"><animate attributeName="width" from="0" to="70" begin="8.28s" dur="0.09s" fill="freeze"/></rect></clipPath><clipPath id="l13"><rect x="70" y="380" width="0" height="24"><animate attributeName="width" from="0" to="659" begin="8.49s" dur="1.24s" fill="freeze"/></rect></clipPath><clipPath id="l14"><rect x="70" y="404" width="0" height="24"><animate attributeName="width" from="0" to="70" begin="9.85s" dur="0.09s" fill="freeze"/></rect></clipPath><clipPath id="l15"><rect x="70" y="428" width="0" height="24"><animate attributeName="width" from="0" to="33" begin="10.06s" dur="0.08s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <style>
+    .code { font: 15px ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace; white-space: pre; }
+    .ln { font: 13px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #475569; opacity: 0; animation: show .2s ease forwards; }
+    .tab { font: 600 13px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #e2e8f0; }
+    .hint { font: 12px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #64748b; }
+    .cursor { opacity: 0; animation: show 0s linear 10.26s forwards, blink 1s steps(1) 10.26s infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="899" height="485" rx="16" fill="url(#win)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="24" y="0" width="852" height="2" rx="1" fill="url(#edge)" opacity="0.8"/>
+
+  <circle cx="26" cy="26" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="26" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="26" r="6.5" fill="#28c840"/>
+
+  <rect x="98" y="12" width="128" height="30" rx="8" fill="#ffffff" fill-opacity="0.05"/>
+  <circle cx="114" cy="27" r="4" fill="#818cf8"/>
+  <text class="tab" x="126" y="32">Hesam.php</text>
+  <text class="hint" x="876" y="32" text-anchor="end">PHP 8.3 · UTF-8</text>
+
+  <line x1="0" y1="52" x2="900" y2="52" stroke="#ffffff" stroke-opacity="0.06"/>
+
+  <text class="ln" x="52" y="86" text-anchor="end" style="animation-delay:0.60s">1</text>
+  <text class="code" x="72" y="86" clip-path="url(#l0)"><tspan fill="#c084fc">&lt;?php</tspan></text>
+  <text class="ln" x="52" y="110" text-anchor="end" style="animation-delay:0.81s">2</text>
+  <text class="ln" x="52" y="134" text-anchor="end" style="animation-delay:0.93s">3</text>
+  <text class="code" x="72" y="134" clip-path="url(#l2)"><tspan fill="#c084fc">namespace&#160;</tspan><tspan fill="#e2e8f0">App\Developers</tspan><tspan fill="#94a3b8">;</tspan></text>
+  <text class="ln" x="52" y="158" text-anchor="end" style="animation-delay:1.50s">4</text>
+  <text class="ln" x="52" y="182" text-anchor="end" style="animation-delay:1.62s">5</text>
+  <text class="code" x="72" y="182" clip-path="url(#l4)"><tspan fill="#64748b" font-style="italic">/**&#160;Building&#160;for&#160;the&#160;web,&#160;from&#160;idea&#160;to&#160;production.&#160;*/</tspan></text>
+  <text class="ln" x="52" y="206" text-anchor="end" style="animation-delay:2.69s">6</text>
+  <text class="code" x="72" y="206" clip-path="url(#l5)"><tspan fill="#c084fc">final&#160;class&#160;</tspan><tspan fill="#fbbf24">Hesam&#160;</tspan><tspan fill="#c084fc">extends&#160;</tspan><tspan fill="#fbbf24">Developer</tspan></text>
+  <text class="ln" x="52" y="230" text-anchor="end" style="animation-delay:3.44s">7</text>
+  <text class="code" x="72" y="230" clip-path="url(#l6)"><tspan fill="#94a3b8">{</tspan></text>
+  <text class="ln" x="52" y="254" text-anchor="end" style="animation-delay:3.64s">8</text>
+  <text class="code" x="72" y="254" clip-path="url(#l7)"><tspan fill="#c084fc">&#160;&#160;&#160;&#160;public&#160;string&#160;</tspan><tspan fill="#f472b6">$role&#160;&#160;</tspan><tspan fill="#94a3b8">=&#160;</tspan><tspan fill="#86efac">&#x27;Full-Stack&#160;Developer&#x27;</tspan><tspan fill="#94a3b8">;</tspan></text>
+  <text class="ln" x="52" y="278" text-anchor="end" style="animation-delay:4.66s">9</text>
+  <text class="code" x="72" y="278" clip-path="url(#l8)"><tspan fill="#c084fc">&#160;&#160;&#160;&#160;public&#160;array&#160;&#160;</tspan><tspan fill="#f472b6">$stack&#160;</tspan><tspan fill="#94a3b8">=&#160;[</tspan><tspan fill="#86efac">&#x27;PHP&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;Laravel&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;Filament&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;Go&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;TS&#x27;</tspan><tspan fill="#94a3b8">];</tspan></text>
+  <text class="ln" x="52" y="302" text-anchor="end" style="animation-delay:6.04s">10</text>
+  <text class="code" x="72" y="302" clip-path="url(#l9)"><tspan fill="#c084fc">&#160;&#160;&#160;&#160;public&#160;array&#160;&#160;</tspan><tspan fill="#f472b6">$ships&#160;</tspan><tspan fill="#94a3b8">=&#160;[</tspan><tspan fill="#86efac">&#x27;CRMs&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;E-commerce&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;Streaming&#x27;</tspan><tspan fill="#94a3b8">,&#160;</tspan><tspan fill="#86efac">&#x27;AI&#x27;</tspan><tspan fill="#94a3b8">];</tspan></text>
+  <text class="ln" x="52" y="326" text-anchor="end" style="animation-delay:7.41s">11</text>
+  <text class="ln" x="52" y="350" text-anchor="end" style="animation-delay:7.53s">12</text>
+  <text class="code" x="72" y="350" clip-path="url(#l11)"><tspan fill="#c084fc">&#160;&#160;&#160;&#160;public&#160;function&#160;</tspan><tspan fill="#60a5fa">motto</tspan><tspan fill="#94a3b8">():&#160;</tspan><tspan fill="#c084fc">string</tspan></text>
+  <text class="ln" x="52" y="374" text-anchor="end" style="animation-delay:8.28s">13</text>
+  <text class="code" x="72" y="374" clip-path="url(#l12)"><tspan fill="#94a3b8">&#160;&#160;&#160;&#160;{</tspan></text>
+  <text class="ln" x="52" y="398" text-anchor="end" style="animation-delay:8.49s">14</text>
+  <text class="code" x="72" y="398" clip-path="url(#l13)"><tspan fill="#c084fc">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;return&#160;</tspan><tspan fill="#86efac">&#x27;Clean&#160;code&#160;first.&#160;Fast&#160;code&#160;second.&#160;Shipped&#160;always.&#x27;</tspan><tspan fill="#94a3b8">;</tspan></text>
+  <text class="ln" x="52" y="422" text-anchor="end" style="animation-delay:9.85s">15</text>
+  <text class="code" x="72" y="422" clip-path="url(#l14)"><tspan fill="#94a3b8">&#160;&#160;&#160;&#160;}</tspan></text>
+  <text class="ln" x="52" y="446" text-anchor="end" style="animation-delay:10.06s">16</text>
+  <text class="code" x="72" y="446" clip-path="url(#l15)"><tspan fill="#94a3b8">}</tspan></text>
+
+  <rect class="cursor" x="84" y="431" width="9" height="19" rx="1.5" fill="#22d3ee"/>
+</svg>
