@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hesam Barzegar — Full-Stack Developer" />
+<img src="./assets/header.svg" width="100%" alt="Hesam Barzegar, aka Epicaler — Full-Stack Developer" />
 
 <a href="https://github.com/Epicaler">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=I+build+CRMs+%26+e-commerce+with+Laravel+%2B+Filament;I+craft+custom+WordPress+themes+%26+plugins;I+write+fast+backend+services+in+Go;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing intro" />
@@ -10,7 +10,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Epicaler&label=profile%20views&color=8b5cf6&style=flat-square" alt="Profile views" />
 <a href="https://github.com/Epicaler?tab=followers"><img src="https://img.shields.io/github/followers/Epicaler?label=followers&style=flat-square&color=22d3ee&labelColor=0b0f1a" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/status-shipping-f472b6?style=flat-square&labelColor=0b0f1a" alt="Status: shipping" />
+<a href="https://www.linkedin.com/in/hesam-barzegar/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn" /></a>
+<a href="https://t.me/MREpicaler"><img src="https://img.shields.io/badge/Telegram-message-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0b0f1a" alt="Telegram" /></a>
 
 </div>
 
@@ -60,10 +61,14 @@
 
 <br />
 
+## `$ ./connect.sh`
+
 <div align="center">
 
 **Have a project in mind?** &nbsp;Let's build something great together.
 
+<a href="https://www.linkedin.com/in/hesam-barzegar/"><img src="https://img.shields.io/badge/LinkedIn-hesam--barzegar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn" /></a>
+<a href="https://t.me/MREpicaler"><img src="https://img.shields.io/badge/Telegram-@MREpicaler-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f1a" alt="Telegram" /></a>
 <a href="https://github.com/Epicaler"><img src="https://img.shields.io/badge/GitHub-Epicaler-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1a" alt="GitHub" /></a>
 
 </div>
