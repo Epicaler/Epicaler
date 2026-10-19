@@ -5,14 +5,14 @@ Run `python3 build_about.py` after editing LINES to regenerate the SVG.
 from html import escape
 
 C = {
-    "kw": "#c084fc",
-    "type": "#fbbf24",
-    "str": "#86efac",
-    "var": "#f472b6",
-    "fn": "#60a5fa",
-    "p": "#94a3b8",
-    "cm": "#64748b",
-    "t": "#e2e8f0",
+    "kw": "#f97316",
+    "type": "#fde047",
+    "str": "#fdba74",
+    "var": "#f87171",
+    "fn": "#fbbf24",
+    "p": "#a8a29e",
+    "cm": "#78716c",
+    "t": "#f5ede6",
 }
 
 # Each line is a list of (color-key, text) tokens.
@@ -81,27 +81,27 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
   <title>Hesam.php</title>
   <defs>
     <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0b0f1a"/>
+      <stop offset="0" stop-color="#1a0d09"/>
+      <stop offset="1" stop-color="#0c0605"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a78bfa"/>
-      <stop offset="0.5" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#f472b6"/>
+      <stop offset="0" stop-color="#fde047"/>
+      <stop offset="0.5" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#dc2626"/>
     </linearGradient>
     {"".join(defs)}
   </defs>
   <style>
     .code {{ font: 15px ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace; white-space: pre; }}
-    .ln {{ font: 13px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #475569; opacity: 0; animation: show .2s ease forwards; }}
-    .tab {{ font: 600 13px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #e2e8f0; }}
-    .hint {{ font: 12px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #64748b; }}
+    .ln {{ font: 13px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #57534e; opacity: 0; animation: show .2s ease forwards; }}
+    .tab {{ font: 600 13px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #f5ede6; }}
+    .hint {{ font: 12px ui-monospace, 'SF Mono', Consolas, 'Liberation Mono', monospace; fill: #78716c; }}
     .cursor {{ opacity: 0; animation: show 0s linear {t:.2f}s forwards, blink 1s steps(1) {t:.2f}s infinite; }}
     @keyframes show {{ to {{ opacity: 1; }} }}
     @keyframes blink {{ 50% {{ opacity: 0; }} }}
   </style>
 
-  <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="16" fill="url(#win)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="16" fill="url(#win)" stroke="#fb923c" stroke-opacity="0.14"/>
   <rect x="24" y="0" width="{W - 48}" height="2" rx="1" fill="url(#edge)" opacity="0.8"/>
 
   <circle cx="26" cy="26" r="6.5" fill="#ff5f57"/>
@@ -109,7 +109,7 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
   <circle cx="70" cy="26" r="6.5" fill="#28c840"/>
 
   <rect x="98" y="12" width="128" height="30" rx="8" fill="#ffffff" fill-opacity="0.05"/>
-  <circle cx="114" cy="27" r="4" fill="#818cf8"/>
+  <circle cx="114" cy="27" r="4" fill="#f97316"/>
   <text class="tab" x="126" y="32">Hesam.php</text>
   <text class="hint" x="{W - 24}" y="32" text-anchor="end">PHP 8.3 · UTF-8</text>
 
@@ -117,7 +117,7 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 
   {chr(10).join("  " + o for o in out).strip()}
 
-  <rect class="cursor" x="{cursor_x}" y="{cursor_y - 15}" width="9" height="19" rx="1.5" fill="#22d3ee"/>
+  <rect class="cursor" x="{cursor_x}" y="{cursor_y - 15}" width="9" height="19" rx="1.5" fill="#f97316"/>
 </svg>
 """
 

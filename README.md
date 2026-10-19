@@ -3,15 +3,15 @@
 <img src="./assets/header.svg" width="100%" alt="Hesam Barzegar, aka Epicaler — Full-Stack Developer" />
 
 <a href="https://github.com/Epicaler">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=I+build+CRMs+%26+e-commerce+with+Laravel+%2B+Filament;I+craft+custom+WordPress+themes+%26+plugins;I+write+fast+backend+services+in+Go;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=640&lines=I+build+CRMs+%26+e-commerce+with+Laravel+%2B+Filament;I+craft+custom+WordPress+themes+%26+plugins;I+write+fast+backend+services+in+Go;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing intro" />
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Epicaler&label=profile%20views&color=8b5cf6&style=flat-square" alt="Profile views" />
-<a href="https://github.com/Epicaler?tab=followers"><img src="https://img.shields.io/github/followers/Epicaler?label=followers&style=flat-square&color=22d3ee&labelColor=0b0f1a" alt="Followers" /></a>
-<a href="https://www.linkedin.com/in/hesam-barzegar/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn" /></a>
-<a href="https://t.me/MREpicaler"><img src="https://img.shields.io/badge/Telegram-message-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0b0f1a" alt="Telegram" /></a>
+<img src="https://komarev.com/ghpvc/?username=Epicaler&label=profile%20views&color=f97316&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Epicaler?tab=followers"><img src="https://img.shields.io/github/followers/Epicaler?label=followers&style=flat-square&color=ef4444&labelColor=120806" alt="Followers" /></a>
+<a href="https://www.linkedin.com/in/hesam-barzegar/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=120806" alt="LinkedIn" /></a>
+<a href="https://t.me/MREpicaler"><img src="https://img.shields.io/badge/Telegram-message-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=120806" alt="Telegram" /></a>
 
 </div>
 
@@ -46,7 +46,7 @@
 ## `$ git log --stat`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Epicaler&background=0B0F1A&border=1F2937&stroke=1F2937&ring=A78BFA&fire=F472B6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Epicaler&background=120806&border=3B160A&stroke=3B160A&ring=F97316&fire=FDE047&currStreakNum=FFF4E0&sideNums=FFF4E0&currStreakLabel=FB923C&sideLabels=E7D6CB&dates=8A7468&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub contribution streak" />
 </div>
 
 <br />
@@ -67,10 +67,10 @@
 
 **Have a project in mind?** &nbsp;Let's build something great together.
 
-<a href="https://www.linkedin.com/in/hesam-barzegar/"><img src="https://img.shields.io/badge/LinkedIn-hesam--barzegar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn" /></a>
-<a href="https://t.me/MREpicaler"><img src="https://img.shields.io/badge/Telegram-@MREpicaler-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f1a" alt="Telegram" /></a>
-<a href="https://github.com/Epicaler"><img src="https://img.shields.io/badge/GitHub-Epicaler-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1a" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/hesam-barzegar/"><img src="https://img.shields.io/badge/LinkedIn-hesam--barzegar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120806" alt="LinkedIn" /></a>
+<a href="https://t.me/MREpicaler"><img src="https://img.shields.io/badge/Telegram-@MREpicaler-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=120806" alt="Telegram" /></a>
+<a href="https://github.com/Epicaler"><img src="https://img.shields.io/badge/GitHub-Epicaler-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=120806" alt="GitHub" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:22d3ee,100:f472b6&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:ea580c,100:fde047&height=120&section=footer" width="100%" alt="" />
